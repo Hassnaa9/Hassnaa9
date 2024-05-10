@@ -13,16 +13,12 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
-###  I am Hassnaa Mohamed
+-->### Hi there 👋, I am Hassnaa Mohamed
 #### Senior Fayoum University Student 
 interested in mobile development using flutter technology, have experience in building practical projects using various technologies.
 also I like exploring new technologies and tools, reading books
 
 Skills: **Languages** : C++, Python, Dart, Matlab ,SQL ,HTML ,CSS   **Frameworks**: Flutter        
-
-- 🔭 I’m currently working on this page. 
-
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Hassnaa9)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/hassnaa-mohamed-ab561b249/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg' alt='telegram' height='40'>](https://t.me/hassnaa_9)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg' alt='codeforces' height='40'>](https://codeforces.com/profile/Hassnaa9)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg' alt='leetcode' height='40'>](https://leetcode.com/u/Hassnaa9/)  
 
@@ -36,6 +32,4 @@ Skills: **Languages** : C++, Python, Dart, Matlab ,SQL ,HTML ,CSS   **Frameworks
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=Hassnaa9)  
 
-
-
-
+<p style="color: black;">Your text here</p>
