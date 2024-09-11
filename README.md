@@ -17,7 +17,6 @@ Here are some ideas to get you started:
 ### I am Hassnaa Mohamed
 #### Senior Fayoum University Student 
 interested in mobile development using flutter technology, have experience in building practical projects using various technologies.
-also I like exploring new technologies and tools, reading books
 
 Skills: **Languages** : C++, Python, Dart, Matlab ,SQL ,HTML ,CSS   
 **Frameworks**: Flutter        
