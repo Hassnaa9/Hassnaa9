@@ -1,36 +1,53 @@
-### Welcome 👋
+###
 
-<!--
-**Hassnaa9/Hassnaa9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **Hassnaa Mohamed**, a passionate Flutter developer and a senior Computer Science student at Fayoum University. I'm interested in building impactful mobile applications that solve real-world problems.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-### I am Hassnaa Mohamed
-#### Senior Fayoum University Student 
-interested in mobile development using flutter technology, have experience in building practical projects using various technologies.
+### 👩‍💻 About Me
+- 📚 Learning more about: **Cloud integration, backend APIs, and performance optimization in mobile development**.
+- 🌍 Strong interest in sustainability, environmental tech, and open source contributions.
+- 🧠 Skilled in **Data Structures**, **Algorithms**, **OOP**, and cross-platform development.
 
-Skills: **Languages** : C++, Python, Dart, Matlab ,SQL ,HTML ,CSS   
-**Frameworks**: Flutter        
+---
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Hassnaa9)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/hassnaa-mohamed-ab561b249/)   [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg' alt='codeforces' height='40'>](https://codeforces.com/profile/Hassnaa9)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg' alt='leetcode' height='40'>](https://leetcode.com/u/Hassnaa9/)  
+### 🚀 Featured Project
 
-<a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> 
+**🌱 GFOOT – Carbon Footprint Tracker**  
+A Flutter-based mobile application that empowers users to monitor and minimize their carbon emissions.
+- 📊 Visual statistics for daily, monthly, and yearly impact
+- 🏆 Ranks users globally, nationally, and locally based on sustainability scores
+- 🔐 Firebase authentication (Google/Facebook)
+- 🔄 Real-time API integration
+- ⚙️ Customizable settings and notifications
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hassnaa9)](https://github.com/anuraghazra/github-readme-stats)
+[🔗 GitHub Repository](https://github.com/Hassnaa9/GFOOT)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Hassnaa9&show_icons=true)  
+---
 
-![GitHub metrics](https://metrics.lecoq.io/Hassnaa9)  
+### 🛠 Skills
 
-![GitHub streak stats](https://streak-stats.demolab.com/?user=Hassnaa9)  
+**Languages:**  
+C++, Python, Dart, Java, SQL, HTML, CSS, MATLAB  
+**Frameworks/Technologies:**  
+Flutter, Firebase, REST APIs  
+**Tools:**  
+Git & GitHub, VS Code, Android Studio, AI Tools  
+**Operating Systems:**  
+Windows, Linux  
+**Soft Skills:**  
+Team Collaboration, Emotional Intelligence, Continuous Learning
 
-<p style="color: black;">Your text here</p>
+---
+
+### 📫 Reach Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/hassnaa-mohamed-ab561b249)  
+[![GitHub](https://img.shields.io/badge/GitHub-black?logo=github&style=flat-square)](https://github.com/Hassnaa9)  
+[![Leetcode](https://img.shields.io/badge/LeetCode-orange?logo=leetcode&style=flat-square)](https://leetcode.com/u/Hassnaa9/)  
+[![Codeforces](https://img.shields.io/badge/Codeforces-blue?logo=codeforces&style=flat-square)](https://codeforces.com/profile/Hassnaa9)  
+
+---
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hassnaa9&show_icons=true&theme=default)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Hassnaa9&layout=compact)
