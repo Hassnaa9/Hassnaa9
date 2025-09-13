@@ -2,28 +2,6 @@
 
 I'm **Hassnaa Mohamed**, a passionate Flutter developer and a senior Computer Science student at Fayoum University. I'm interested in building impactful mobile applications that solve real-world problems.
 
----
-
-### 👩‍💻 About Me
-- 📚 Learning more about: **Cloud integration, backend APIs, and performance optimization in mobile development**.
-- 🌍 Strong interest in sustainability, environmental tech, and open source contributions.
-- 🧠 Skilled in **Data Structures**, **Algorithms**, **OOP**, and cross-platform development.
-
----
-
-### 🚀 Featured Project
-
-**🌱 GFOOT – Carbon Footprint Tracker**  
-A Flutter-based mobile application that empowers users to monitor and minimize their carbon emissions.
-- 📊 Visual statistics for daily, monthly, and yearly impact
-- 🏆 Ranks users globally, nationally, and locally based on sustainability scores
-- 🔐 Firebase authentication (Google/Facebook)
-- 🔄 Real-time API integration
-- ⚙️ Customizable settings and notifications
-
-[🔗 GitHub Repository](https://github.com/Hassnaa9/GFOOT)
-
----
 
 ### 🛠 Skills
 
