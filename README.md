@@ -7,7 +7,7 @@
 
 ## About Me
 
-I'm a passionate Software Engineer specializing in Flutter Development with a Bachelor's degree in Computer Science from Fayoum University.
+I'm a passionate Software Engineer specializing in Flutter Development with a Bachelor's degree in Computer Science.
 With a strong foundation in competitive programming and hands on experience in open source contributions, I bring both technical expertise and problem-solving skills to every project.
 
 ### Highlights
