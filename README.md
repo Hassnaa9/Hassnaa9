@@ -29,8 +29,6 @@ With a strong foundation in competitive programming and hands on experience in o
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white&style=flat-square)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black&style=flat-square)
 ![REST APIs](https://img.shields.io/badge/REST_APIs-009688?logo=fastapi&logoColor=white&style=flat-square)
-![Bloc](https://img.shields.io/badge/BLoC-000000?logo=flutter&logoColor=white&style=flat-square)
-![Provider](https://img.shields.io/badge/Provider-000000?logo=flutter&logoColor=white&style=flat-square)
 
 **Tools & Platforms**  
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=flat-square)
