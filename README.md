@@ -1,5 +1,4 @@
 # Hi there, I'm Hassnaa Mohamed 👋
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/hassnaa-mohamed-ab561b249)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=flat-square)](mailto:mhassna727@gmail.com)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=white&style=flat-square)](https://leetcode.com/u/Hassnaa9/)
 [![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?logo=codeforces&logoColor=white&style=flat-square)](https://codeforces.com/profile/Hassnaa9)
