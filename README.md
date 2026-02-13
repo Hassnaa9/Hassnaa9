@@ -24,12 +24,14 @@ With a strong foundation in competitive programming and hands on experience in o
 ![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white&style=flat-square)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?logo=postgresql&logoColor=white&style=flat-square)
 ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?logo=mathworks&logoColor=white&style=flat-square)
+
 **Frameworks & Technologies**  
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white&style=flat-square)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black&style=flat-square)
 ![REST APIs](https://img.shields.io/badge/REST_APIs-009688?logo=fastapi&logoColor=white&style=flat-square)
 ![Bloc](https://img.shields.io/badge/BLoC-000000?logo=flutter&logoColor=white&style=flat-square)
 ![Provider](https://img.shields.io/badge/Provider-000000?logo=flutter&logoColor=white&style=flat-square)
+
 **Tools & Platforms**  
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=flat-square)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=flat-square)
@@ -37,13 +39,5 @@ With a strong foundation in competitive programming and hands on experience in o
 ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=flat-square)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?logo=visualstudiocode&logoColor=white&style=flat-square)
 ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?logo=androidstudio&logoColor=white&style=flat-square)
-## 📊 GitHub Statistics
-<div align="center">
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hassnaa9&show_icons=true&theme=radical&hide_border=true&count_private=true)](https://github.com/Hassnaa9)
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Hassnaa9&layout=compact&theme=radical&hide_border=true)](https://github.com/Hassnaa9)
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Hassnaa9&theme=radical&hide_border=true)](https://github.com/Hassnaa9)
-
-</div>
+---
