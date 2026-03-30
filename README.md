@@ -11,8 +11,6 @@ With a strong foundation in competitive programming and hands on experience in o
 - **Hult Prize 2025** - 2nd place at Fayoum University, selected among 750 global teams
 - **7th Egyptian Universities Olympics** - Represented Fayoum University
 ---
-**View my detailed contribution activity**: [GitHub Gist](https://gist.github.com/Hassnaa9/6c92a2693b5046a233c90e8cdd6c9378)
----
 ## 🛠 Technical Skills
 **Languages**  
 ![Dart](https://img.shields.io/badge/Dart-0175C2?logo=dart&logoColor=white&style=flat-square)
